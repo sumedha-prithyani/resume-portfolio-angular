@@ -1,0 +1,17 @@
+[
+    {
+        "title":"Developer - Lorem ipsum Company",
+        "year":"Feb 2018 — Present",
+        "role" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+    },
+    {
+        "title":"Developer - Lorem ipsum Company",
+        "year":"May 2017 — Feb 2018",
+        "role":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "title":"Developer - Lorem ipsum Company",
+        "year":"July 2015 — Dec 2016",
+        "role": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+  ]

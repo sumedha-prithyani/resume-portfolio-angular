@@ -1,0 +1,14 @@
+{
+    "userName": "Lorem ipsum",
+    "userCopyrightYear" :"2019",
+    "showUserImageandName" :true,
+    "showUserSkill" :true,
+    "showUserExperience" :true,
+    "showUserShowcase" :true,
+    "showUserEducation" :true,       
+    "showUserCopyright" :true,
+    "showTitle1": "Skills",
+    "showTitle2": "Work Experience",
+    "showTitle3": "Portfolio",
+    "showTitle4": "Education"
+}
