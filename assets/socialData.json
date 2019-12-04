@@ -2,6 +2,8 @@
      {"info":"position", "title":"Sr. Lorem ipsum"},
      {"info":"area", "title":"Lorem ipsum, India"},
      {"info":"email", "title":"Lorem ipsum@gmail.com"},
-     {"info":"no", "title":"9000000000"}
+     {"info" : "linkedin", "title": "http://linkedin.com"},
+     {"info": "github", "title":"https://github.com"},
+     {"info":"stackoverflow","title": "https://stackoverflow.com"}
 ]
 
